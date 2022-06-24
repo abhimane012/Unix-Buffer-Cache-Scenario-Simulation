@@ -1,5 +1,6 @@
-# Unix-Buffer-Cache-Scenario-Simulation
-Program in C++ for getblk 5 Scenario Simulation
+# Simulating algorithms getblk and brelse
+
+# Program in C++ for getblk 5 Scenario Simulation
 
 # Buffer Cache
 
